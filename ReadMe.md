@@ -3,7 +3,16 @@
 <h2>Introduction :</h2>
 
 Deep learning has gained a tremendous influence on how the world is adapting to Artificial Intelligence since past few years. Some of the popular object detection algorithms are Region-based Convolutional Neural Networks (RCNN), Faster-RCNN, Single Shot Detector (SSD) and You Only Look Once (YOLO). Amongst these, Faster-RCNN and SSD have better accuracy, while YOLO performs better when speed is given preference over accuracy. Deep learning combines SSD and Mobile Nets to perform efficient implementation of detection and tracking. This algorithm performs efficient object detection while not compromising on the performance.
+## Demo
+<center> <img src = "https://github.com/sandipanrakshit34/Object-Detection-and-Tracking-for-Surveillance/blob/main/CC.png" width = 100%>
 
+## Data
+
+## Author
+
+- [@sandipanrakshit34](https://github.com/sandipanrakshit34)
+
+##
 <h2>Our Vision and Mission :</h2>
 
 * Creating a Custom Data-set of desired classes and labeling the Images.
