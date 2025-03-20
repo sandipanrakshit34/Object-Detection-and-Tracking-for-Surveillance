@@ -58,7 +58,7 @@ Grid cell:
 <h3> Bounding Boxes </h3>
 <br>
 <p align="center">
-<img src = "https://github.com/Arupsau/CCTV-surveillance-for-traffic-dense-environments/blob/main/Images/YOLO.jpg">
+<img src = "Images/YOLO.jpg">
 </p>
 
 **Benefits of YOLO :**
@@ -106,7 +106,7 @@ Now, we can test our Custom Object Detector by running command on a sample photo
 <h3> Object Detection Output </h3>
 <br>
 <p align="center">
-<img src = "https://github.com/Arupsau/CCTV-surveillance-for-traffic-dense-environments/blob/main/Images/Detection_Output.jpg">
+<img src = "Images/Detection_Output.jpg">
 </p>
 <br>
 
@@ -155,7 +155,7 @@ Now using the tensorflow model and with the help of Deep Sort we are able to tra
 <h3> Object Tracking Output </h3>
 <br>
 <p align="center">
-<img src = "https://github.com/Arupsau/CCTV-surveillance-for-traffic-dense-environments/blob/main/Images/Tracking.jpg">
+<img src = "Images/Tracking.jpg">
 </p>
 
 <h2>Application of Object Detection and Tracking :</h2>
